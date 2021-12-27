@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomApp</string>
+    <string-array name="names">
+        <item>SHA256</item>
+        <item>SHA224</item>
+        <item>SHA384</item>
+        <item>SHA512</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
